@@ -13,8 +13,6 @@ In this project, you are tasked to implement a web solution based on **MERN** st
 4. [**N**ode.js](https://nodejs.org/en/): A JavaScript runtime environment. It is used to run JavaScript on a machine rather than in a browser.
 
 
-<img src="https://darey.io/wp-content/uploads/2021/02/MERN-stack.png"  width="936px" height="550px">
-
 
 As shown on the illustration above, a user interacts with the ReactJS UI components at the application front-end residing in the browser. This frontend is served by the application backend residing in a server, through ExpressJS running on top of NodeJS.
 
@@ -28,9 +26,6 @@ Any interaction that causes a data change request is sent to the NodeJS based Ex
 4. Explore what [RESTful API](https://restfulapi.net) is and what it is used for in Web development.
 5. Read what [Cascading Style Sheets (CSS)](https://en.wikipedia.org/wiki/CSS) is used for and browse [basic syntax and properties](https://www.w3schools.com/css/css_intro.asp).
 
-#### Instructions On How To Submit Your Work For Review And Feedback
-
-To submit your work for review and feedback - follow [**this instruction**](https://starter-pbl.darey.io/en/latest/submission.html).
 
 #### Step 0 - Preparing prerequisites
 
@@ -46,12 +41,6 @@ If you do not have an AWS account - go back to **[Project 1 Step 0](https://star
 **Hint #2 (for Windows users only):** In previous projects we used Putty and Git Bash to connect to our EC2 Instances. 
 
 In this project and going forward, we are going to explore the usage [windows terminal](https://docs.microsoft.com/en-us/windows/terminal/install).
-
-Watch this videos to learn how to set up windows terminal on your pc;
-
-- [windows installatatiosn part 1](https://youtu.be/R-qcpehB5HY)
-
-- [windows installatatiosn part 2](https://youtu.be/jsNIlK5s6pI)
 
 
 
