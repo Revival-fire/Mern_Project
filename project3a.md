@@ -35,8 +35,6 @@ If you do not have an AWS account - go back to **[Project 1 Step 0](https://star
 
 **Hint #1:** When you create your EC2 Instances, you can add Tag "Name" to it with a value that corresponds to a current project you are working on - it will be reflected in the name of the EC2 Instance. Like this:
 
-<img src="https://darey.io/wp-content/uploads/2021/02/EC2_tag.png"  width="936px" height="550px">
-
 
 **Hint #2 (for Windows users only):** In previous projects we used Putty and Git Bash to connect to our EC2 Instances. 
 
