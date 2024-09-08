@@ -385,8 +385,6 @@ npm run dev
 Assuming no errors when saving all these files, our To-Do app should be ready and fully functional with the functionality discussed earlier: creating a task, deleting a task and viewing all your tasks.
 
 
-<img src="https://darey.io/wp-content/uploads/2021/02/alldone.jpg" title="Script" width="936px" height="550px">
-
 
 
 #### Congratulations
