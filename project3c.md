@@ -67,14 +67,10 @@ If every thing goes well, you should see **Server running on port 5000** in your
 
 
 
-<img src="https://darey.io/wp-content/uploads/2021/02/node-index.png" title="index" width="936px" height="550px">
-
 
 
 Now we need to open this port in EC2 Security Groups. Refer to **[Project 1](https://starter-pbl.darey.io/en/latest/project1.html)** Step 1 – Installing the Nginx Web Server. There we created an inbound rule to open TCP port 80, you need to do the same for port 5000, like this:
 
-
-<img src="https://darey.io/wp-content/uploads/2021/02/Port_5000.png" title="index" width="936px" height="550px">
 
 
 Open up your browser and try to access your server's Public IP or Public DNS name followed by port 5000:
@@ -90,8 +86,6 @@ Quick reminder how to get your server's Public IP and public DNS name:
 ```
 Welcome to Express
 ```
-
-<img src="https://darey.io/wp-content/uploads/2021/02/welcome_express.png" title="index" width="936px" height="550px">
 
 
 ##### Routes
