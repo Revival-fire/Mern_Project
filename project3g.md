@@ -36,8 +36,6 @@ $ npm install nodemon --save-dev
 },
 ```
 
-<img src="https://darey.io/wp-content/uploads/2021/02/script.jpg" title="Script" width="936px" height="550px">
-
 ##### Configure Proxy in `package.json`
 
 1.  Change directory to 'client'
